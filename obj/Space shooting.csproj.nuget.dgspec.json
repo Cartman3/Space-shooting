@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-06 Final/Space shooting/Space shooting.csproj": {}
+  },
+  "projects": {
+    "/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-06 Final/Space shooting/Space shooting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-06 Final/Space shooting/Space shooting.csproj",
+        "projectName": "Space shooting",
+        "projectPath": "/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-06 Final/Space shooting/Space shooting.csproj",
+        "packagesPath": "/Users/Cartman/.nuget/packages/",
+        "outputPath": "/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-06 Final/Space shooting/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Cartman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "raylib-cs": {
+              "target": "Package",
+              "version": "[3.7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cPGlaFOrbZ7+Oec0Mz4d/umAAamYk+M6gXrkL2glUdxs8SW4uWucfXAj3e/Dr14zuamOrUzfqDGrIMyL9/NnLg==",
+  "success": true,
+  "projectFilePath": "/Users/Cartman/Desktop/BYUI/Classes/Spring 2022/CSE 210 (Programming with classes)/CSE210 Projects/cse210-06 Final/Space shooting/Space shooting.csproj",
+  "expectedPackageFiles": [
+    "/Users/Cartman/.nuget/packages/raylib-cs/3.7.0.1/raylib-cs.3.7.0.1.nupkg.sha512",
+    "/Users/Cartman/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
